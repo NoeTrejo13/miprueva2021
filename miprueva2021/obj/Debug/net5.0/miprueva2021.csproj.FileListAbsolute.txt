@@ -165,3 +165,5 @@ C:\Users\Noé Trejo\source\repos\miprueva2021\miprueva2021\obj\Debug\net5.0\Razo
 C:\Users\Noé Trejo\source\repos\miprueva2021\miprueva2021\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Noé Trejo\source\repos\miprueva2021\miprueva2021\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Noé Trejo\source\repos\miprueva2021\miprueva2021\obj\Debug\net5.0\miprueva2021.csproj.AssemblyReference.cache
+C:\Users\Noé Trejo\source\repos\miprueva2021\miprueva2021\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Noé Trejo\source\repos\miprueva2021\miprueva2021\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_LoginPartial.cshtml.g.cs
