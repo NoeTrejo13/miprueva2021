@@ -6,12 +6,27 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\Recursos\bg\bg-2.jpg" />
+    <None Include="wwwroot\Recursos\bg\bg.jpg" />
+    <None Include="wwwroot\Recursos\icons\entrance.svg" />
+    <None Include="wwwroot\Recursos\icons\lock.svg" />
+    <None Include="wwwroot\Recursos\icons\marker.png" />
+    <None Include="wwwroot\Recursos\icons\person-add.svg" />
+    <None Include="wwwroot\Recursos\icons\power.svg" />
+    <None Include="wwwroot\Recursos\icons\user.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="bootstrap" Version="4.5.3" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.7" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.7" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 
 </Project>

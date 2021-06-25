@@ -1,0 +1,35 @@
+﻿.container {
+    width: 100%;
+}
+.fondo{
+    max-width: 100%;
+}
+
+.cont {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    width: 100%;
+}
+
+.form {
+    /* para IE */
+    filter: alpha(opacity=80);
+    /* CSS3 standard */
+    opacity: 0.8;
+    max-width: 100%;
+    color: white;
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    background: rgb(254 225 225);
+    background: rgb(192,192,192);
+    padding: 10px;
+    border-radius: 20px 20px 20px 20px;
+}
+.icon {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
